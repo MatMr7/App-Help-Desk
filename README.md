@@ -6,11 +6,9 @@ The project has a login screen, where user authentication is performed. Accordin
 O Help Desk é um projeto que foi desenvolvido para colocar em prática conhecimentos iniciais na linguagem PHP.
 O projeto conta uma tela de login, onde é feita a autenticação do usuário, de acordo com cada usuário conteúdos diferentes são apresentados.
 
-
 <h3>Tela de login / Login screen </h3>
-![](/login.png)
 
-<h3>Tela de login / Login screen </h3>
+<h3>Tela de abertura de chamado</h3>
 
 ![](/header.png)
 
