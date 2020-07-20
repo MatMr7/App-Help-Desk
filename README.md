@@ -7,7 +7,7 @@ O Help Desk é um projeto que foi desenvolvido para colocar em prática conhecim
 O projeto conta uma tela de login, onde é feita a autenticação do usuário, de acordo com cada usuário conteúdos diferentes são apresentados.
 
 <h3>Tela de login / Login screen </h3>
-![](/login.png)
+<img src = "login.png">
 
 <h3>Tela de abertura de chamado</h3>
 
